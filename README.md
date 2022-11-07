@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OPIEUcz
+- 👋 Hi, I’m @IttoHaru
 - 👀 I’m interested in 3D printing and computers
 - 🌱 I’m currently learning I dont even know what
 - 💞️ I’m looking to collaborate on whatever comes to me as a opurtunity
