@@ -1,8 +1,8 @@
 Hi, here is Itto
 
--🏫 I am currently a high school student
--📖 I study multimedia
--🎮 My hobbies are: gaming, 3D printing, 3D design and all technologies around it
+- 🏫 I am currently a high school student
+- 📖 I study multimedia
+- 🎮 My hobbies are: gaming, 3D printing, 3D design and all technologies around it
 
 
 #
