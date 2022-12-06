@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on whatever comes to me as a opurtunity
 
 ###
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IttoHaru&show_icons=true&theme=monokai)](https://github.com/IttoHaru)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IttoHaru&theme=monokai)](https://github.com/IttoHaru)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IttoHaru&show_icons=true&theme=monokai" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IttoHaru&theme=monokai" />
+</a>
