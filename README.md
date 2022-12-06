@@ -1,4 +1,4 @@
-# **Hi, here is Itto**
+# <p style="color:#b5182a;">**Hi, here is Itto**</p>
 
 - 🏫 I am currently a high school student
 - 📖 I study multimedia
