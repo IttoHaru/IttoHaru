@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @IttoHaru
-- 👀 I’m interested in 3D printing and computers
-- 🌱 I’m currently learning I dont even know what
-- 💞️ I’m looking to collaborate on whatever comes to me as a opurtunity
+Hi, here is Itto
+
+-🏫 I am currently a high school student
+-📖 I study multimedia
+-🎮 My hobbies are: gaming, 3D printing, 3D design and all technologies around it
+
 
 #
 <a href="https://github.com/anuraghazra/github-readme-stats">
