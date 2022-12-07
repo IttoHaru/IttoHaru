@@ -9,6 +9,7 @@
 - E3D V6 all metal hotend 3D printed mount for Ender 3
 - Custom MC crafts and furnace recipies for SMP (game life improvements)
 - Personal web using bootstrap (school project)
+- Custom MC hacks to solve LiveOverFlows server's puzzles
 
 
 ## Stats
