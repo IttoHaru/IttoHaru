@@ -1,4 +1,4 @@
-# **Hi, here is Itto**
+# **Hi, my nickname is Itto**
 
 - 🏫 I am currently a high school student
 - 📖 I study multimedia
