@@ -6,10 +6,9 @@
 
 
 ## Currecnt projects
-- [x] E3D V6 all metal hotend 3D printed mount for Ender 3
-- [ ] Custom MC crafts and furnace recipies for SMP (game life improvements)
-- [x] Web using bootstrap (school project)
-- [ ] Custom MC hacks to solve LiveOverFlows server's puzzles
+- [x] Fixing Industrial 3D printer (Tractus T650P)
+- [ ] Custom tweaked printer profile for T650P
+- [ ] ESP 32 Humidity reported to discord trough webhook or bot
 
 
 ## Stats
