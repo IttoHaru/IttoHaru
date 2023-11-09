@@ -2,7 +2,7 @@
 
 - 🏫 I am currently a high school student
 - 📖 I study multimedia
-- 🎮 My hobbies are: gaming, 3D printing, 3D design and all technologies around it
+- 🎮 My hobbies are: gaming, 3D printing, 3D design, PC hardware/software and all technologies around it
 
 
 ## Currecnt projects
