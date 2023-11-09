@@ -5,7 +5,7 @@
 - 🎮 My hobbies are: gaming, 3D printing, 3D design, PC hardware/software and all technologies around it
 
 
-## Currecnt projects
+## Projects
 - [x] Fixing Industrial 3D printer (Tractus T650P)
 - [ ] Custom tweaked printer profile for T650P
 - [ ] ESP 32 Humidity reported to discord trough webhook or bot
