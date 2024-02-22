@@ -7,8 +7,9 @@
 
 ## Projects
 - [x] Fixing Industrial 3D printer (Tractus T650P)
-- [ ] Custom tweaked printer profile for T650P
+- [x] Custom tweaked printer profile for T650P
 - [ ] ESP 32 Humidity reported to discord trough webhook or bot
+- [ ] Build scara 3D printer using RRF with full 360 printing (repo)
 
 
 ## Stats
